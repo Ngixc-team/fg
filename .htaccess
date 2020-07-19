@@ -1,0 +1,1 @@
+order allow,deny deny from 120.188.82.193 allow from all
